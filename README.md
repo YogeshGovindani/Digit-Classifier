@@ -26,5 +26,6 @@ Machine learning is an application of artificial intelligence (AI) which provide
 1. **Khush Agrawal**
 2. **Himanshu Patil**
 3. **Rohit Lal**
+
 Special thanks to all the other mentors and members of [IV LABS](http://www.ivlabs.in/), without their support this project wouldn’t have been completed successfully.
 ***
