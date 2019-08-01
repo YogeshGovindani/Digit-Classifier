@@ -1,7 +1,7 @@
 # THE DIGIT CLASSIFIER
 ---
 ## INTRODUCTION:
-The Digit Classifier is a program which classifies a digit from 0 to 9 given its image. The project was built in three stages. The first stage used a Single Layer Neural Network, the second one used a Multi Layer Neural Network and the third one used a Convolutional Neural Network. The project is programmed in Python using using [Numpy](https://www.numpy.org/), [Pandas](https://pandas.pydata.org/) and [Pytorch](https://pytorch.org/) libraries. The project was trained using the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset.
+The Digit Classifier is a program which classifies a digit from 0 to 9 given its image. The project was built in three stages. The first stage used a Single Layer Neural Network, the second one used a Multi Layer Neural Network and the third one used a Convolutional Neural Network. The project is programmed in Python using [Numpy](https://www.numpy.org/), [Pandas](https://pandas.pydata.org/) and [Pytorch](https://pytorch.org/) libraries. The project was trained using the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset.
 ***
 ## MACHINE LEARNING:
 Machine learning is an application of artificial intelligence (AI) which provides system the ability to learn and improve without being explicitly programmed. The primary aim is to allow the computers learn automatically without human intervention or assistance and adjust actions accordingly. 
@@ -23,5 +23,5 @@ Machine learning is an application of artificial intelligence (AI) which provide
 2. [StackOverflow](https://stackoverflow.com/) was continuously checked in case of errors encountered during coding of the project.
 ***
 ## SPECIAL THANKS:
-Special thanks to all the other mentors and members of IV LABS, without their support this project wouldn’t have been completed successfully.
+Special thanks to all the other mentors and members of [IV LABS](http://www.ivlabs.in/), without their support this project wouldn’t have been completed successfully.
 ***
