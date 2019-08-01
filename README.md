@@ -22,6 +22,6 @@ Machine learning is an application of artificial intelligence (AI) which provide
 1. The [Deep Learning and Neural Networks](https://www.coursera.org/learn/neural-networks-deep-learning) and [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?=) courses from [coursera](https://www.coursera.org/) helped us in getting acquanted with the basic concepts of Deep Learning and Convolutional Neural Networks. 
 2. [StackOverflow](https://stackoverflow.com/) was continuously checked in case of errors encountered during coding of the project.
 ***
-## Special Thanks:
+## SPECIAL THANKS:
 Special thanks to all the other mentors and members of IV LABS, without their support this project wouldn’t have been completed successfully.
 ***
